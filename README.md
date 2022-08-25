@@ -1,12 +1,9 @@
 ## Sales Insights Data Analysis Project
 
-### Instructions to setup mysql on your local computer
 
-1. Follow step in this video to install mysql on your local computer
-https://www.youtube.com/watch?v=WuBcTJnIuzo
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
 
+1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it.
 ### Data Analysis Using SQL
 
 1. Show all customer records
@@ -47,6 +44,8 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
 and transactions.market_code="Mark001";`
 
 
-<img width="686" alt="image" src="https://user-images.githubusercontent.com/66819985/186597082-929d6ae0-b96e-471d-914b-7402df314596.png">
+<img width="554" alt="image" src="https://user-images.githubusercontent.com/66819985/186597337-32415497-3351-4664-b9d3-75210ad5776c.png">
+<img width="554" alt="image" src="https://user-images.githubusercontent.com/66819985/186597470-fc86d50b-8ebe-416f-8346-b93c9ceee8f0.png">
+
 
 
