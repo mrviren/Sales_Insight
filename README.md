@@ -1,7 +1,7 @@
 ## Sales Insights Data Analysis Project
 
 
-
+Link to Dashboard - https://prod-apnortheast-a.online.tableau.com/t/salesinsightdashboard/views/ProfitAnalysis/DashboardProfitanalysis?:origin=card_share_link&:embed=n
 
 1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it.
 ### Data Analysis Using SQL
